@@ -14,4 +14,5 @@ madlibs(1).py: This Python script is an interactive Mad Libs game that prompts u
 ------------------------------------------------------------------------------------------------
 nickname.py This is an interactive, console-based Python script that determines which celebrity you are most like based on your personality traits and lifestyle preferences. By answering a short series of "A or B" questions, the program narrows down your profile to match with a specific celebrity.
 ------------------------------------------------------------------------------------------------
-simulation(3).py: 
+simulation(3).py: This Python script simulates a classic Tortoise and the Hare race over 100,000 iterations to calculate their overall win probabilities. The hare dashes ahead at speeds of 1 to 10 spaces but is programmed to sleep 80% of the time, while the steady tortoise moves 1 to 3 spaces per turn without resting.
+------------------------------------------------------------------------------------------------
