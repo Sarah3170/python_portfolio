@@ -12,4 +12,6 @@ gam3.py: This is a Python-based Random Number Guessing Game that offers multiple
 -----------------------------------------------------------------------------------------------
 madlibs(1).py: This Python script is an interactive Mad Libs game that prompts users to input words or select random options to generate a hilarious, customized story about a disastrous night out with friends, complete with DoorDash food and a random movie.
 ------------------------------------------------------------------------------------------------
-nickname.py:
+nickname.py This is an interactive, console-based Python script that determines which celebrity you are most like based on your personality traits and lifestyle preferences. By answering a short series of "A or B" questions, the program narrows down your profile to match with a specific celebrity.
+------------------------------------------------------------------------------------------------
+simulation(3).py: 
