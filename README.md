@@ -10,4 +10,6 @@ Fable(1).py: This Python script simulates a classic, randomized race between a T
 -----------------------------------------------------------------------------------------------
 gam3.py: This is a Python-based Random Number Guessing Game that offers multiple difficulty levels (Easy, Medium, and Hard) to challenge the player's logic and speed.
 -----------------------------------------------------------------------------------------------
-madlibs(1).py: 
+madlibs(1).py: This Python script is an interactive Mad Libs game that prompts users to input words or select random options to generate a hilarious, customized story about a disastrous night out with friends, complete with DoorDash food and a random movie.
+------------------------------------------------------------------------------------------------
+nickname.py:
