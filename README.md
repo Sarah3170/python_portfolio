@@ -8,4 +8,6 @@ Create(2).py: 100 Birds of the World is an interactive, Python-based program des
 -----------------------------------------------------------------------------------------------
 Fable(1).py: This Python script simulates a classic, randomized race between a Tortoise and a Hare to a finish line of \(50\) steps. It uses the random library to model each character's daily progress and the Hare's chance of randomly falling asleep, outputting the race's step-by-step progress.
 -----------------------------------------------------------------------------------------------
-gam3.py: 
+gam3.py: This is a Python-based Random Number Guessing Game that offers multiple difficulty levels (Easy, Medium, and Hard) to challenge the player's logic and speed.
+-----------------------------------------------------------------------------------------------
+madlibs(1).py: 
